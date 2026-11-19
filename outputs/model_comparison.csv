@@ -1,0 +1,5 @@
+Specification,N,Parameters,Null LL,Final LL,Rho-squared,Adjusted rho-squared,LR statistic,df,p-value
+Base MNL,10000,26,-13862.9436,-7949.7069,0.4265,0.4247,,,
+Generic travel time MNL,10000,23,-13862.9436,-8018.9206,0.4216,0.4199,138.4273,3.0000,0.0000
+Summed car cost MNL,10000,24,-13862.9436,-8011.3015,0.4221,0.4204,123.1891,2.0000,0.0000
+Active vs motorized nested logit,10000,28,-13862.9436,-7949.5546,0.4266,0.4245,0.3048,2.0000,0.8587

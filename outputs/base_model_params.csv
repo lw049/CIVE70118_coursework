@@ -1,0 +1,30 @@
+Parameter,Estimate,Std. error,t-statistic,Type
+B_TT_WALK,-0.0712,0.0019,-37.7263,Model parameter
+B_WALK_IDX,0.0086,0.0008,10.3066,Model parameter
+ASC_CYCLE,0.1183,0.1403,0.8437,Model parameter
+B_TT_CYCLE,-0.0713,0.0018,-39.5552,Model parameter
+B_BIKE_IDX,0.0060,0.0008,7.0863,Model parameter
+B_INC_CYCLE,0.0014,0.0010,1.3742,Model parameter
+B_AGE_CYCLE,-0.0040,0.0017,-2.3232,Model parameter
+B_FEM_CYCLE,-0.0816,0.0525,-1.5556,Model parameter
+ASC_PT,2.3465,0.4049,5.7948,Model parameter
+B_TT_PT,-0.0723,0.0056,-12.9849,Model parameter
+B_WT_PT,-0.0447,0.0125,-3.5834,Model parameter
+B_AT_PT,-0.0771,0.0094,-8.2096,Model parameter
+B_FARE_PT,-0.9542,0.0588,-16.2387,Model parameter
+B_AC_PT,-0.5917,0.0474,-12.4774,Model parameter
+B_INC_PT,0.0046,0.0026,1.8044,Model parameter
+B_AGE_PT,0.0047,0.0045,1.0564,Model parameter
+B_FEM_PT,-0.1060,0.1365,-0.7767,Model parameter
+ASC_CAR,2.9562,0.2217,13.3365,Model parameter
+B_TT_CAR,-0.1063,0.0030,-35.8232,Model parameter
+B_FC_CAR,-0.5750,0.0415,-13.8500,Model parameter
+B_PC_CAR,-0.2484,0.0149,-16.6948,Model parameter
+B_CC_CAR,-0.1344,0.0130,-10.3504,Model parameter
+B_INC_CAR,0.0028,0.0013,2.0726,Model parameter
+B_AGE_CAR,0.0003,0.0023,0.1131,Model parameter
+B_FEM_CAR,-0.1309,0.0702,-1.8653,Model parameter
+B_CAROWN_CAR,-0.0414,0.0655,-0.6329,Model parameter
+VOT_TT_PT,4.5457,,,Value of time (£/hour)
+VOT_WT_PT,2.8103,,,Value of time (£/hour)
+VOT_AT_PT,4.8461,,,Value of time (£/hour)
